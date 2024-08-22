@@ -1,0 +1,12 @@
+node_modules
+logs/
+
+/* Gulp config */
+build
+dist
+
+/* webstorm */
+.idea
+
+/* VSCode */
+.vscode/
